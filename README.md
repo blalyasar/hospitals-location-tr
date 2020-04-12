@@ -1,6 +1,5 @@
 # hospitals-location-tr
 Türkiyedeki Devlet Hastaneleri Konumu 
-# veri kaynağı :https://github.com/farukcankaya/all-hospitals-database-tr
 
 - python-flask-Folium
 
