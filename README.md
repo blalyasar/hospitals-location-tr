@@ -1,5 +1,8 @@
 # hospitals-location-tr
-Türkiyedeki Devlet Hastaneleri Konumu - python-flask-Folium
+Türkiyedeki Devlet Hastaneleri Konumu 
+# veri kaynağı :https://github.com/farukcankaya/all-hospitals-database-tr
+
+- python-flask-Folium
 
 pip install flask
 open terminal
