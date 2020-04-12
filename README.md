@@ -8,3 +8,4 @@ open terminal
 http://127.0.0.1:5000/
 
 
+![turkıye harıtası](https://github.com/blalyasar/hospitals-location-tr/blob/master/resim.png)
